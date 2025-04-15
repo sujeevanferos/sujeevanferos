@@ -34,7 +34,6 @@ Check out some of my coolest projects:
 ## 📡 Connect with Me
 
 💬 Let's chat, collaborate, or geek out:
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - LinkedIn: [Feros Raveendran Sujeevan]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/feros-raveendran-sujeevan-553941341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - Email: ferosraveendransujeevan@gmail.com
 
